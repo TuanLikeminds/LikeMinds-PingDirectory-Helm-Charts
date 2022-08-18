@@ -3,6 +3,6 @@ appVersion: "2206"
 description: Ping Identity helm charts - 07/01/22
 home: https://helm.pingidentity.com/
 icon: https://helm.pingidentity.com/img/logos/ping.png
-name: ping-devops
+name: LikeMinds-Devops
 type: application
 version: 0.9.33
